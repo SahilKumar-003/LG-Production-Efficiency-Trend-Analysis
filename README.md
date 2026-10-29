@@ -101,16 +101,18 @@ Format the defect rate as a percentage.
 
 ## 📂 Project Files
 
-- 📊 [**Dataset (CSV)**](./[lg_production_data.csv](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/lg_production_data.csv)) — Source data used for production and cost analysis.
-- 📈 [**Dashboard (Power BI PDF)**](./[project_LG_power_bi.pdf](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/project_LG(power_bi).pdf)) — View the exported dashboard report.
-- 🖼️ [**Dashboard Screenshot**](./[screenshots/dashboard.png](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/Lg_production_dashboard.png)) — Preview the dashboard directly in the README.
-- 💻 [**Power BI Report (.pbix)**](./[project_LG.pbix](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/project_LG(power_bi).pbix)) — Open the interactive report in Power BI Desktop, if included.
+- 📊 [**Dataset (CSV)**](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/lg_production_data.csv) — Source data used for production and cost analysis.
+- 📈 [**Dashboard (Power BI PDF)**](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/project_LG%28power_bi%29.pdf) — View the exported dashboard report.
+- 🖼️ [**Dashboard Screenshot**](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/Lg_production_dashboard.png) — Preview the dashboard.
+- 💻 [**Power BI Report (.pbix)**](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/project_LG%28power_bi%29.pbix) — Open the interactive report in Power BI Desktop.
 
 ## 📊 Dashboard Preview
 
-Click the link below to view the dashboard:
+Click below to view the dashboard:
 
-[**View LG Production Efficiency & Trend Analysis Dashboard**](./[project_LG_power_bi.pdf](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/project_LG(power_bi).pdf))
+[**View LG Production Efficiency & Trend Analysis Dashboard (PDF)**](https://github.com/SahilKumar-003/LG-Production-Efficiency-Trend-Analysis/blob/main/project_LG%28power_bi%29.pdf)
+
+
 
 
 
