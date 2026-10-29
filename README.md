@@ -136,6 +136,3 @@ Before using the dashboard for business decisions:
 **Author:** Sahil Kumar  
 **Project:** LG Production Efficiency & Trend Analysis  
 **Technology:** Microsoft Power BI
-
-
-Specify a license if you intend to allow others to reuse this project. Before publishing, verify that you have permission to redistribute the dataset and any LG branding or logos included in the report.
