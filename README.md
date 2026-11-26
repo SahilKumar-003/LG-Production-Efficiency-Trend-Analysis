@@ -126,26 +126,9 @@ Click below to view the dashboard:
 6. Create the required measures and visuals.
 7. Refresh the report when the source data changes.
 
-## 🔍 Data Quality Considerations
 
-Before using the dashboard for business decisions:
 
-- Validate missing or invalid production dates before interpreting monthly trends.
-- Investigate missing region values.
-- Confirm that quality control quantities are correctly associated with Pass, Fail, and Recheck statuses.
-- Ensure defective units are not incorrectly counted as additional production.
-- Verify that cost components reconcile with total cost.
-- Confirm that production and demand forecast values use compatible units.
-- Ensure dates are sorted chronologically in monthly charts.
 
-## 💡 Future Improvements
-
-- Add additional production efficiency KPIs.
-- Introduce interactive slicers for product, factory, region, and date.
-- Add a 100% stacked column chart for comparing QC proportions.
-- Improve data quality handling and missing-value treatment.
-- Add conditional formatting to highlight high defect rates.
-- Improve dashboard accessibility with readable labels and consistent formatting.
 
 ## 👤 Author
 
