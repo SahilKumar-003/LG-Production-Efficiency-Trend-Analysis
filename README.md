@@ -84,7 +84,6 @@ The chart labels show the following values:
 | APAC | 124M | 24.40% |
 | EMEA | 107M | 20.95% |
 
-Validate the source data and region mapping before interpreting these categories. In particular, confirm whether **NA** represents a genuine region category or missing/unassigned region values.
 
 ### 5. Units Produced vs Demand Forecast
 
